@@ -29,7 +29,7 @@ public class IniciarSesion extends JPanel implements ActionListener{
 	TextField jTextField1;
 	
 	public void init() {
-		boton1 = new JButton("Iniciar sesi�n");
+		boton1 = new JButton("Iniciar sesion");
 		boton1.setBounds(30,60,10,30);
         add(boton1);
         boton1.addActionListener(this);
