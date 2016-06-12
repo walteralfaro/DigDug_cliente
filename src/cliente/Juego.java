@@ -33,7 +33,7 @@ import javax.swing.Timer;
 public class Juego extends JApplet implements Runnable, KeyListener {
 	
 	public Juego() {
-		
+		//ggg
 	}
 	
 	
